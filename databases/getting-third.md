@@ -1,7 +1,7 @@
 ---
 title : 'Demons Slayer'
 date : '2023-06-05'
-image : 'Demons.jpg'
+image : 'demons.jpg'
 description : 'Demon Slayer  Kimetsu no Yaiba (鬼滅の刃, Kimetsu no Yaiba, Blade of Demon Destruction) is a Japanese manga series written and illustrated by Koyoharu Gotouge. It was serialized in Shueisha shōnen manga magazine Weekly Shōnen Jump from February 2016 to May 2020, with its chapters collected in 23 tankōbon volumes. It has been published in English by Viz Media and simultaneously published by Shueisha on their Manga Plus platform. '
 isFeatured: true
 ---
